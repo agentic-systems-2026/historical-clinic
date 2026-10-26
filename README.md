@@ -2,6 +2,12 @@
 
 This repository holds unit tests for the **De-identify** atomic protocol, which redacts personal identifiers from free text before a conversation log is exported. The protocol is a thin wrapper around [Microsoft Presidio](https://microsoft.github.io/presidio/), which is the citable source; the tests exercise the exact two calls the workflow's glue code makes.
 
+## Wire diagram
+
+De-identify sits at the end of the workflow: it receives the conversation log and passes the redacted log to the audit-log export.
+
+![Workflow wire diagram](docs/wire_diagram.png)
+
 ## Contract
 
 | | Type | Description |
