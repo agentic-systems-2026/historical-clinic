@@ -64,3 +64,8 @@ def test_zip_code_is_redacted():
 def test_non_string_input_raises(bad_input):
     with pytest.raises(ValueError):
         deidentify(bad_input)
+
+def test_redacts_two_names():
+    out = deidentify("Dr. Maria Lopez referred John Smith to the clinic.")
+    assert out.count("<PERSON>") == 2  # wrong on purpose: there are two names
+
