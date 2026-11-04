@@ -41,7 +41,7 @@ python -m spacy download en_core_web_lg
 pytest -v
 ```
 
-Expected result: **7 passed, 2 xfailed**.
+Expected result: **8 passed, 2 xfailed**.
 
 ## What the tests cover
 
