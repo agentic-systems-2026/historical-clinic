@@ -1,5 +1,7 @@
 # historical-clinic
 
+[![tests](https://github.com/agentic-systems-2026/historical-clinic/actions/workflows/tests.yml/badge.svg)](https://github.com/agentic-systems-2026/historical-clinic/actions/workflows/tests.yml)
+
 This repository holds unit tests for the **De-identify** atomic protocol, which redacts personal identifiers from free text before a conversation log is exported. The protocol is a thin wrapper around [Microsoft Presidio](https://microsoft.github.io/presidio/), which is the citable source; the tests exercise the exact two calls the workflow's glue code makes.
 
 ## Wire diagram
