@@ -1,0 +1,1 @@
+The user presented to our online clinic with this query: {user_query}. Explain how this relates to '{query}' as best you can even if it's not a perfect fit. Begin your reply with, 'We think this might be a fit because'. Keep your response to 2-3 sentences.
