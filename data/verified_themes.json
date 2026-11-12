@@ -1,0 +1,121 @@
+{
+  "Cardiovascular & Circulatory Health": [
+    "My blood pressure reading at home was high; do I need to adjust my medication?",
+    "Routine post-stent or stable angina follow-ups.",
+    "Routine checking of heart rate control and blood thinner management.",
+    "My heart occasionally skips a beat, flutters, or races for a few seconds out of nowhere.",
+    "Evaluating chest wall tenderness or anxiety-induced tightness to rule out cardiac origin.",
+    "Are my lifestyle changes working, or is it time to start a statin?",
+    "My ankles and feet are noticeably swollen and puffy by the end of the day.",
+    "I feel faint or lightheaded whenever I stand up too quickly."
+  ],
+  "Respiratory & Infectious Illnesses": [
+    "Requests for the seasonal influenza vaccine, updated COVID boosters, or RSV shots.",
+    "Questions regarding Shingrix (shingles), Prevnar (pneumonia), or Tdap boosters.",
+    "Testing, symptom management advice, or requests for antiviral medications like Paxlovid.",
+    "My chest feels tight during exercise; can I get a stronger rescue inhaler?",
+    "I'm experiencing an increase in shortness of breath and morning cough.",
+    "I have a deep, hacking chest cough that is keeping me awake at night.",
+    "I've had a severe head cold, congestion, and malaise for 5 days.",
+    "I woke up with sudden high fever, chills, body aches, and overwhelming fatigue.",
+    "Every spring I deal with endless sneezing, clear runny nose, and itchy, watery eyes.",
+    "I have intense facial pressure, pain behind my eyes, and discolored nasal discharge.",
+    "It feels like swallowing glass; can you swab my throat for strep?"
+  ],
+  "Endocrine, Metabolic & Systemic Disorders": [
+    "How are my A1C levels looking, and should we alter my insulin/metformin?",
+    "I\u2019m feeling sluggish; can we check my TSH and adjust my levothyroxine?",
+    "I'm having a sudden, incredibly painful flare-up in my big toe; can I get colchicine?",
+    "Can you explain what my declining eGFR rate means for my health?",
+    "My libido is gone, I'm losing muscle mass, and I feel exhausted; can we test my hormone levels?",
+    "My periods are very heavy, and my lab work shows low iron and ferritin levels.",
+    "I\u2019ve lost 15 pounds over the last three months without changing my diet or exercise.",
+    "I am sleeping 8 hours a night but feel completely exhausted and wiped out all day.",
+    "I found a firm, nickel-sized lump in my neck/armpit after being sick.",
+    "I am struggling to lose weight; am I a good candidate for a GLP-1 medication (like semaglutide)?"
+  ],
+  "Dermatology & Skin Conditions": [
+    "This bug bite has turned bright red, hot to the touch, and the redness is spreading.",
+    "I found a tick on me and now I have a circular, expanding red rash.",
+    "I have a painful, blistering, burning rash localized to one side of my torso.",
+    "My skin has developed intensely itchy, dry, red, and cracked patches.",
+    "I have a localized, blistered rash after working out in the yard/using a new detergent.",
+    "This mole on my arm has changed color and developed asymmetrical borders.",
+    "Thick, red skin patches covered with silvery scales, typically on elbows or knees.",
+    "A highly itchy, circular rash with raised, clear-centered edges.",
+    "Over-the-counter face washes aren't working; can I get a prescription topical retinoid?",
+    "Persistent flaky, oily, itchy patches on the scalp, eyebrows, or sides of the nose.",
+    "My hair is thinning dramatically; is it hormonal, genetic, or a vitamin deficiency?",
+    "My big toenail has turned thick, yellow, and brittle."
+  ],
+  "Gastrointestinal & Digestive Health": [
+    "My chronic heartburn is waking me up at night despite taking antacids.",
+    "Monitoring mild Crohn's or Ulcerative Colitis between GI specialist visits.",
+    "Severe nausea, vomiting, watery diarrhea, and abdominal cramping.",
+    "Chronic alternating patterns of diarrhea, constipation, and painful bloating.",
+    "I feel completely distended after meals; could I have Celiac disease or lactose intolerance?",
+    "I only pass a stool twice a week and it's incredibly hard and painful.",
+    "I noticed bright red blood on the toilet paper after straining, along with local pain."
+  ],
+  "Reproductive, Sexual & Urological Health": [
+    "Routine full-panel screening following a new partner or exposure concern.",
+    "Intense vaginal itching, burning, and thick white discharge.",
+    "Persistent vaginal odor and unusual discharge requiring antibiotic gel or pills.",
+    "Routine pelvic exams coupled with HPV co-testing based on updated screening guidelines.",
+    "What are the pros and cons of the pill vs. an IUD vs. a nexplanon arm implant?",
+    "My partner and I want to start trying for a baby; what prenatal vitamins should I begin taking?",
+    "I have to wake up 4 times a night to urinate, and my stream is incredibly weak.",
+    "Discussing the pros and cons of drawing a Prostate-Specific Antigen blood test.",
+    "I'm having severe hot flashes, night sweats, and unpredictable, heavy periods.",
+    "I\u2019m having trouble maintaining an erection; is it safe for me to try Viagra or Cialis?",
+    "My period is completely unpredictable, skipping months at a time.",
+    "I have intense burning when I urinate and a constant, urgent need to go."
+  ],
+  "Musculoskeletal, Orthopedic & Rheumatologic Health": [
+    "Should I be taking calcium supplements, and when is my next bone density scan?",
+    "The chronic stiffness in my knees is getting worse; what are my options besides NSAIDs?",
+    "I threw my back out lifting something heavy and can barely stand up.",
+    "I can't lift my arm past shoulder height without a pinching pain.",
+    "The first steps I take out of bed in the morning cause agonizing heel pain.",
+    "I rolled my ankle over a curb; it's swollen and bruised, but can I walk on it?",
+    "My knee clicked while twisting and now feels unstable and swollen.",
+    "I have a sharp, shooting pain traveling down my buttock and the back of my leg.",
+    "My thumb and index fingers are tingling and going numb when I drive or type.",
+    "Pain on the outer or inner forearm worsened by gripping objects.",
+    "Deep, localized aching over the joint space, especially painful when lying on that side.",
+    "Stiffness and aching, often attributed to desk posture or sleeping poorly.",
+    "Chronic, widespread muscle pain accompanied by severe fatigue and sleep disruption.",
+    "Diffuse, persistent muscle aching without an obvious injury."
+  ],
+  "Neurology, Otolaryngology & Sensory Conditions": [
+    "My ear feels completely blocked and my hearing is muffled; can you flux the earwax out?",
+    "Painful, small ulcers inside the mouth making eating difficult.",
+    "I woke up with my eyelid crusted shut, and the eye is red, itchy, and producing discharge.",
+    "I have a dull, aching band of pressure entirely surrounding my head at the end of the day.",
+    "I'm having a severe, throbbing headache on one side of my head, accompanied by nausea and light sensitivity.",
+    "The entire room spins violently for a few seconds whenever I turn my head in bed.",
+    "I have a persistent, highly annoying ringing or buzzing sound in my ears when a room is quiet."
+  ],
+  "Mental Health, Behavioral Health & Substance Management": [
+    "I feel a constant, baseline sense of dread and physical tension that I can't shake.",
+    "I've lost interest in all my hobbies, feel constantly empty, and have zero energy.",
+    "I suddenly feel like I'm having a heart attack, can't breathe, and feel overwhelming terror.",
+    "I can fall asleep easily but wake up at 3:00 AM every single night and can't get back to sleep.",
+    "I've always struggled with focus, but managing my career has become completely unmanageable.",
+    "Navigating intense emotional distress and functional impairment after losing a loved one.",
+    "Work is causing physical symptoms like headaches and stomachaches.",
+    "I want to quit smoking; can you prescribe Wellbutrin, Chantix, or nicotine patches?",
+    "Inquiries regarding medication-assisted treatment (like naltrexone) or counseling options."
+  ],
+  "Preventative Care, Pediatrics & Administrative Medicine": [
+    "Evaluation of cardiac and respiratory fitness prior to an upcoming elective surgery.",
+    "I am traveling to a tropical region; what malaria pills or yellow fever vaccines do I need?",
+    "My child has had a fever of 102\u00b0F for two days without any other symptoms.",
+    "Structured checks evaluating pediatric growth charts and developmental milestones.",
+    "Am I eligible for a Cologuard take-home kit, or do I need to schedule an actual colonoscopy?",
+    "Establishing baseline tracking or scheduling routine annual imaging.",
+    "Clearance forms ensuring it is safe for a child or adolescent to participate in athletics.",
+    "General head-to-toe wellness baseline check.",
+    "My insurance company is requiring a prior authorization form from you to refill my chronic medication."
+  ]
+}
